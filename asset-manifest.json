@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chatbot-example/static/css/main.2cce8147.chunk.css",
+    "main.js": "/chatbot-example/static/js/main.b4369c6a.chunk.js",
+    "main.js.map": "/chatbot-example/static/js/main.b4369c6a.chunk.js.map",
+    "runtime~main.js": "/chatbot-example/static/js/runtime~main.57a86b7b.js",
+    "runtime~main.js.map": "/chatbot-example/static/js/runtime~main.57a86b7b.js.map",
+    "static/js/2.48e71a8a.chunk.js": "/chatbot-example/static/js/2.48e71a8a.chunk.js",
+    "static/js/2.48e71a8a.chunk.js.map": "/chatbot-example/static/js/2.48e71a8a.chunk.js.map",
+    "index.html": "/chatbot-example/index.html",
+    "precache-manifest.65b8b04852646e53535cfcb7a7a5d6b8.js": "/chatbot-example/precache-manifest.65b8b04852646e53535cfcb7a7a5d6b8.js",
+    "service-worker.js": "/chatbot-example/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/chatbot-example/static/css/main.2cce8147.chunk.css.map",
+    "static/media/avatar.jpg": "/chatbot-example/static/media/avatar.8eb88d51.jpg"
+  }
+}
