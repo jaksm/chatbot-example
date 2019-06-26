@@ -3,6 +3,7 @@ import "./App.css";
 import ChatBot from "react-simple-chatbot";
 import { steps } from "./steps";
 import { ThemeProvider } from "styled-components";
+import avatar from "./avatar.jpg"
 
 const theme = {
   background: "#f5f8fb",
@@ -27,6 +28,7 @@ class App extends Component {
         <header className="App-header">
           <ThemeProvider theme={theme}>
             <ChatBot
+              botAvatar={avatar}
               steps={steps}
               recognitionEnable={true}
               speechSynthesis={{ enable: true, lang: "en" }}
